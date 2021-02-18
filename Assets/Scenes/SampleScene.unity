@@ -536,7 +536,7 @@ GameObject:
   - component: {fileID: 1143035268}
   - component: {fileID: 1143035267}
   m_Layer: 0
-  m_Name: ImageTarget
+  m_Name: Piano
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
